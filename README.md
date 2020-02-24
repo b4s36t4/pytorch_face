@@ -13,9 +13,13 @@ Face Detection using PyTorch performing on OpenCV Live Video With help of prebui
 
 ## Used Python Packages.
 [OpenCv](https://opencv.org)
+
 [torch](https://pytorch.org)
+
 [facenet_pytorch](https://github.com/timesler/facenet-pytorch)
+
 [numpy](https://numpy.org)
+
 [pillow](https://pypi.org/project/Pillow/)
 
 Thank you ;)
