@@ -12,7 +12,7 @@ Face Detection using PyTorch performing on OpenCV Live Video With help of prebui
 
 
 ## Used Python Packages.
-[OpenCv](https://opencv.org)
+[OpenCV](https://opencv.org)
 
 [torch](https://pytorch.org)
 
