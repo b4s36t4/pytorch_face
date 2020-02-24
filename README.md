@@ -10,4 +10,12 @@ Face Detection using PyTorch performing on OpenCV Live Video With help of prebui
 
 > Just Run the Python File and Face Detection can be done on Video via WebCam of you device..!
 
+
+## Used Python Packages.
+[OpenCv](https://opencv.org)
+[torch](https://pytorch.org)
+[facenet_pytorch](https://github.com/timesler/facenet-pytorch)
+[numpy](https://numpy.org)
+[pillow](https://pypi.org/project/Pillow/)
+
 Thank you ;)
